@@ -1,0 +1,44 @@
+ion-header, ion-toolbar{
+    --background: #7400b8;
+    color:#f4f5f8;
+    font-family: 'Spotify';
+    font-size: medium;
+}
+
+ion-content {
+    height: 350px;
+    --padding-top: 40px;
+    --background: #0036da00;
+}
+ 
+.section-header {
+    color: #fff;
+    font-family: 'Spotify';
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    
+
+}
+ 
+.title {
+    color: #fff;
+    font-family: 'Spotify';
+    font-size: small;
+}
+ 
+ion-slide {
+    display: block;
+    text-align: left;
+}
+ 
+ion-slides {
+    margin-bottom: 20px;
+
+}
+.icon{
+    right: 25px;
+    bottom: 25px;
+    width: 50px;
+
+}
